@@ -8,9 +8,9 @@ The code on this repository was originally written by Geréb Róbert in Python 2
 
 ## Repository Files
 
- `main.py`: A basic Python-file which uses the `RLY8Class.py` file to control the relay
- `rly-8.py`: Stand-alone example to control the relay
- `RLY8Class.py`: Control class for the relay
+- `RLY8Class.py`: Control class for the relay
+- `main.py`: A basic Python-file which uses the `RLY8Class.py` file to control the relay
+- `rly-8.py`: Stand-alone example to control the relay
 
 <br>
 
