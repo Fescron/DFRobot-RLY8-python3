@@ -1,6 +1,16 @@
 # DFRobot Python 3 Control Class and Example Code
 
-The code was originally written by Geréb Róbert in Python 2, see [this](https://github.com/uponai/dfrobot-RLY-8-python) repository.
+This repository contains a control class and other example code for the [RLY-8](https://www.dfrobot.com/product-1218.html) 8 channel PoE ethernet (and USB) relay controller by [DFRobot](https://www.dfrobot.com). See [this](https://wiki.dfrobot.com/RLY-8-POE_Relay_Controller_DFR0289) link to their wiki-page for more information about the device.
+
+The code on this repository was originally written by Geréb Róbert in Python 2 (see [this](https://github.com/uponai/dfrobot-RLY-8-python) repository). I've ported it to Python 3 and added slightly more functionality and documentation.
+
+<br>
+
+## Repository Files
+
+ `main.py`: A basic Python-file which uses the `RLY8Class.py` file to control the relay
+ `rly-8.py`: Stand-alone example to control the relay
+ `RLY8Class.py`: Control class for the relay
 
 <br>
 
